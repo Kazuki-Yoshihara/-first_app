@@ -1,5 +1,13 @@
 == README
 
+#RUBY ON RAILS チュートリアル：サンプルアプリケーション
+
+This is the first application fo the
+[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
+by[Michael Hartl](http://michaelhartl.com/).
+
+
+変更前--------------------------------------------------------------------------
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
